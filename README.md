@@ -1,24 +1,20 @@
-
-<a href="#"><img align="center" width="30%" height="auto" src="https://i.ibb.co/9HNZzgg/Pngtree-a-man-at-work-4463549.png" height="175px"/></a>
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soufiane/h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Rabat, Morocco.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **mobile development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Soufianeakif)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **soufianeakif@hotmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I drink coffee more than water.**
 
 ## 🚀 Languages and Tools:
 
