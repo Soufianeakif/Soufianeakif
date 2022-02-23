@@ -4,13 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 💼 I’m currently working on **[hotel chain management app](https://www.google.com/)**
 
-- 🌱 I’m currently learning **mobile development.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Soufianeakif)**
+- 👨‍💻 I’m currently learning **mobile development.**
 
 - 📫 How to reach me **soufianeakif@hotmail.com**
 
