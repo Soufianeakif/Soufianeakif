@@ -1,4 +1,6 @@
-<a href="#"><img width="30%" align="center" height="auto" src="https://i.ibb.co/9HNZzgg/Pngtree-a-man-at-work-4463549.png" height="175px"/></a>
+<center>
+<a href="#"><img width="30%" height="auto" src="https://i.ibb.co/9HNZzgg/Pngtree-a-man-at-work-4463549.png" height="175px"/></a>
+</center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
