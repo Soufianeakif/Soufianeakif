@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+:root {
+  font-family: "Lalezar", sans-serif;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: rgb(119, 13, 13);
+  background: 
+  radial-gradient(circle, rgba(152,22,59,1) 0%, rgba(49,3,25,1) 100%);
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+}
+
+
+@keyframes moveBg {
+  0% {
+    background-position: 0% 30%;
+  }
+  100% {
+    background-position: 1000% 500%;
+  }
+}
+img {
+    width: 30%;
+    height: auto;
+  }
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  user-select: none;
+}
+/*
+   https://www.tiktok.com/@soufiane__akif
+*/
+h1 {
+    color: #ffffff;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+  }
+.time {
+  color: #ffffff;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+}
+
+.time span {
+  padding: 0 14px;
+  font-size: 0.8rem;
+}
+
+.time span div {
+  font-size: 3rem;
+}
+
+@media (max-width: 740px) {
+  .label {
+    font-size: 1.7rem;
+  }
+  .time span {
+    padding: 0 16px;
+    font-size: 0.6rem;
+  }
+  .time span div {
+    font-size: 2rem;
+  }
+}
+footer{ 
+    position:absolute; 
+    bottom:0; 
+    width:100%; 
+    height:100px;
+    text-align: center;
+  }
+  
