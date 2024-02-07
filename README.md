@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **News mobile app**
 
-- 📫 How to reach me **soufiane4akif@gmail.com**
+- 📫 How to reach me **contact@akifsoufiane.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
