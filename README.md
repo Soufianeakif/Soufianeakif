@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianeakif&label=Profile%20views&color=0e75b6&style=flat" alt="soufianeakif" /> </p>
 
-- 🔭 I’m currently working on **News mobile app**
+- 🔭 I’m currently working on **SAAS (Software as a service)**
 
 - 📫 How to reach me **contact@akifsoufiane.tech**
 
