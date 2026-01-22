@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **SAAS (Rent Properties Management) - [MOLKLI.COM](https://molkli.com/)**
-- 📫 How to reach me: **https://akifsoufiane.netlify.app/contact**
+- 📫 How to reach me: **soufiane4akif@gmail.com**
 
 ---
 
@@ -18,7 +18,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/soufiane-akif" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane-akif" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane akif linkedin" height="30" width="40" />
+  </a>
+  <a href="https://akifsoufiane.dev" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/520522/globe.svg" alt="soufiane akif portfolio" height="30" width="40" />
   </a>
   <!-- Add more social links here if needed -->
 </p>
